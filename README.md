@@ -2,11 +2,7 @@
 
 ###
 
-<h4 align="left">Who am I?</h4>
-
 ###
-
-<p align="left">📚Iniciei meus estudos em 2024, influenciado por amigos, e aos poucos fui me interessando cada vez mais. Com o tempo, descobri um verdadeiro gosto por essa área e decidi me aprofundar nela! 🇧🇷</p>
 
 ###
 
