@@ -14,8 +14,6 @@
 
 ###
 
-<p align="left">Aqui estão algumas linguagens</p>
-
 ###
 
 <div align="left">
