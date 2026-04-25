@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineer focused on the Java and Spring ecosystem, architecting scalable back-end solutions with an emphasis on security and data integrity. Currently developing a professional Legal Management System to automate complex workflows, while continuously advancing my expertise in Spring Boot, Spring Security, and PostgreSQL. Committed to engineering excellence, I am consistently refining my skills in Clean Architecture, SOLID principles, and automated testing to deliver high-performance, production-ready software.</p>
+<p align="left">Software Engineer Student focused on the Java and Spring ecosystem, architecting scalable back-end solutions with an emphasis on security and data integrity. Currently developing a professional Legal Management System to automate complex workflows, while continuously advancing my expertise in Spring Boot, Spring Security, and PostgreSQL. Committed to engineering excellence, I am consistently refining my skills in Clean Architecture, SOLID principles, and automated testing to deliver high-performance, production-ready software.</p>
 
 ###
 
